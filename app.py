@@ -66,11 +66,11 @@ with st.sidebar:
         "¿Tu sitio web obtuvo vulnerabilidades críticas? Un especialista puede corregirlas en menos de 2 horas."
     )
 
-    st.markdown("---")
+   st.markdown("---")
     st.markdown("### 📱 Síguenos en Instagram")
     st.markdown(
         "Consejos diarios de seguridad informática para negocios:<br>"
-        '<a href="https://instagram.com/TU_USUARIO_IG" target="_blank" style="color: #e1306c; font-weight: bold; text-decoration: none;">📸 @TU_USUARIO_IG</a>',
+        '<a href="https://www.instagram.com/webguard.mx?stkn=amJ0bWRod20wbTM%3D&utm_source=qr" target="_blank" style="color: #e1306c; font-weight: bold; text-decoration: none;">📸 @webguard.mx</a>',
         unsafe_allow_html=True,
     )
 
