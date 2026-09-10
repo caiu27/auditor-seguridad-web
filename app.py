@@ -1,5 +1,4 @@
-
-        import requests
+import requests
 import streamlit as st
 
 # --- CONFIGURACIÓN DE LA PÁGINA ---
@@ -235,4 +234,3 @@ if st.session_state.get("analizado", False):
             " de 2 horas para enviarle el reporte de **"
             f"{url_analizada}**."
         )
-        # Opcional: Aquí podrías integrar un webhook o registro automático de leads si lo deseas en el futuro.
